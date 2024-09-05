@@ -18,7 +18,7 @@ I'm Sheena, a 💻 Data Analyst, 🚀 Software Developer, 🎨 Layout Artist, an
 
 - 💼 Data Analysis: Python, Pandas, SQL
 - 🌐 Web Development: HTML, CSS, JavaScript, PHP
-- 🛠️ Tools: Excel, Power BI, Google Sheets, Research, SQLYog or DBeaver
+- 🛠️ Tools: Excel, Power BI, Google Sheets, Research, SQLYog or DBeaver, Unity, XAMPP, IDEs: VS Code, PHPStorm, Visual Studio, Netbeans
 - 🎨 Design: CorelDraw, Adobe Creative Suite
 
 #### Let's Connect:
